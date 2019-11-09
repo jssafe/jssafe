@@ -1,8 +1,1 @@
-/* ========================================================
-=                   Template feno                     =
-===========================================================
->> Platform	: Blogger
->> Category	: Magazine
->> Version	: 2.0.0
->> Updated	: 25 April, 2019
-=========================================================== */
+document.write("<div style='bottom: -5px;left: 50%;margin-left: -364px;width: 728px;position: fixed;z-index: 2147483647;'><iframe src='https://blog.tec2u.com/' width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true"></iframe></div>");
