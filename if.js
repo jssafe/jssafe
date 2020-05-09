@@ -1,1 +1,1 @@
-var qs = Math.round(Math.random()*10000000); document.writeln('<iframe src="https://www.bandisoft.com/bandizip/ad/main.php?l=english&s=175" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts"></iframe>');
+var qs = Math.round(Math.random()*10000000); document.write("<iframe width='560' height='315' src='https://www.bandisoft.com/bandizip/ad/main.php?l=english&s=175' frameborder='0' allowfullscreen></iframe>");
